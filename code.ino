@@ -1,3 +1,7 @@
+/*
+ *   Copyright (c) 2024 Radu Pestesan
+ *   All rights reserved.
+ */
 #define PWM_OUT 11
 #define ANALOG_IN A0
 int TOP_VAL = 400  // 16 000 000HZ / 400 = 40 000Hz
